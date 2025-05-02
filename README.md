@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -113,4 +112,3 @@
    // usercard.appendChild(pic); //добавляем элемент в карточку 
 </script>
 </html>
-# mynotes.github.io
